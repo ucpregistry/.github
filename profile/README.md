@@ -15,6 +15,7 @@ We index, version, and serve the ecosystem map — so agents can discover mercha
 | **[MCP Server](https://ucpregistry.com/mcp)** | **Model Context Protocol Server**<br>Let AI agents discover UCP merchants programmatically. Drop into any MCP-compatible agent framework. | 🟢 **Live** |
 | **[Push API](https://ucpregistry.com)** | **Version Control**<br>Push manifest updates via API with semantic versioning, commit history, and inline diffs. | 🟢 **Live** |
 | **[npm SDK](https://www.npmjs.com/package/ucpregistry)** | **TypeScript/JavaScript SDK**<br>`npm install ucpregistry` — typed methods for discover, search, push, and diff. | 🟢 **Live** |
+| **[Python SDK](https://pypi.org/project/ucpregistry/)** | **Python SDK**<br>`pip install ucpregistry` — full type hints, context manager, httpx-based. | 🟢 **Live** | 
 
 ### 📊 **Ecosystem Coverage**
 
