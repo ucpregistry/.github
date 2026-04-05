@@ -13,7 +13,7 @@ We index, version, and serve the ecosystem map — so agents can discover mercha
 | **[UCPRegistry.com](https://ucpregistry.com)** | The ecosystem directory — merchants, tools, plugins, platforms, agents, and extensions. | 🟢 **Live** |
 | **[Discovery API](https://ucpregistry.com/api/v1/merchants)** | **REST API for Agent Discovery**<br>Query verified merchants by capability, platform, and vertical. Free tier: 30 requests/day. | 🟢 **Live** |
 | **[MCP Server](https://ucpregistry.com/mcp)** | **Model Context Protocol Server**<br>Let AI agents discover UCP merchants programmatically. Drop into any MCP-compatible agent framework. | 🟢 **Live** |
-| **[Push API](https://ucpregistry.com)** | **HuggingFace-Style Version Control**<br>Push manifest updates via API with semantic versioning, commit history, and inline diffs. | 🟢 **Live** |
+| **[Push API](https://ucpregistry.com)** | **Version Control**<br>Push manifest updates via API with semantic versioning, commit history, and inline diffs. | 🟢 **Live** |
 | **[npm SDK](https://www.npmjs.com/package/ucpregistry)** | **TypeScript/JavaScript SDK**<br>`npm install ucpregistry` — typed methods for discover, search, push, and diff. | 🟢 **Live** |
 
 ### 📊 **Ecosystem Coverage**
